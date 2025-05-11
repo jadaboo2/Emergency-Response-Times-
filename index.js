@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         boro: "Brooklyn",
         type: "FDNY",
-        text: "It takes ambulances in Brooklyn an average of 10 minutes and 33 seconds to reach life threatening medical emergencies. In case of incidents such as cardiac arrest and choking, it takes an average 8 minutes and 48 seconds. Average response time for life-threatening and non-life-threatening incidents combined is 14 minutes and 56 seconds. Non-life-threatening emergencies include instances of drug overdose, sickness, pain etc."
+        text: "It takes fire unites in Brooklyn an average of 9 minutes to reach life threatening medical emergencies. For non-fire emergencies, it takes an average of 9 minutes and 45 seconds. In case of fires in commercial, residential, public or vacant buildings, it takes average of 4 minutes and 30 seconds. During incidents of brush fires, auto fires or transit system fires, it takes around 6 minutes and 8 seconds. Majority of the fire units to any kind of fire emergency in Brooklyn take less than 5 minutes."
         },
         {
         boro: "Queens",
@@ -113,6 +113,13 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }
     }
+
+
+
+
+    boroDropdown.addEventListener('change', updateContent);
+    emtypeDropdown.addEventListener('change', updateContent);
+});
 
 
 

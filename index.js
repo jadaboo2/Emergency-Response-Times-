@@ -123,7 +123,3 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
-    boroDropdown.addEventListener('change', updateContent);
-    emtypeDropdown.addEventListener('change', updateContent);
-});

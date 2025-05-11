@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         boro: "Brooklyn",
         type: "FDNY",
-        text: "It takes fire unites in Brooklyn an average of 9 minutes to reach life threatening medical emergencies. For non-fire emergencies, it takes an average of 9 minutes and 45 seconds. In case of fires in commercial, residential, public or vacant buildings, it takes average of 4 minutes and 30 seconds. During incidents of brush fires, auto fires or transit system fires, it takes around 6 minutes and 8 seconds. Majority of the fire units to any kind of fire emergency in Brooklyn take less than 5 minutes."
+        text: "It takes fire units in Brooklyn an average of 9 minutes to reach life threatening medical emergencies. For non-fire emergencies, it takes an average of 9 minutes and 45 seconds. In case of fires in commercial, residential, public or vacant buildings, it takes average of 4 minutes and 30 seconds. During incidents of brush fires, auto fires or transit system fires, it takes around 6 minutes and 8 seconds. Majority of the fire units to any kind of fire emergency in Brooklyn take less than 5 minutes."
         },
         {
         boro: "Queens",

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 body{
-    background-color:#1d3557;
+    background-color:#305a95;
     margin: 5px 20px 5px 20px;
     padding-inline: 13%;
 }
@@ -23,4 +23,5 @@ text-align: center;
 select {
     display: block;
     margin: 10px auto;
+    
   }

@@ -1,28 +1,62 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 body{
-    background-color:#305a95;
+    background-color:#6a040f;
     margin: 5px 20px 5px 20px;
     padding-inline: 13%;
 }
 
 h1{
-color: red;
-font-family: "Orbitron", serif;
+color: whitesmoke;
+font-family: "Tinos Static";
 text-align: center;
+font-size: 25pt;
 }
 
 h2{
 text-align: center;
+font-family: "Tinos Static";
+color: whitesmoke;
+font-size: 20pt ;
+
 }
 
 p{
 font-size: 20px;
 text-align: center;
+font-family: "Roboto Flex";
+color: whitesmoke
 }
 
 select {
     display: block;
     margin: 10px auto;
-    
   }
 
+.gif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    
+}
+.sub{
+    font-size: 14pt;
+    margin-top: 20px;
+    color: #6a040f;
+
+    border: 3px solid;
+    background-color: whitesmoke;
+     /* width: 100%; */
+     max-width: 1250px;
+     padding: 16px; 
+     box-sizing: border-box;
+     /* display: flex;
+     flex-wrap: wrap; */
+     gap: 20px;
+     justify-content: center;
+     margin-bottom: 20px;
+     margin-left: 80px;
+     margin-right: 80px;
+}
